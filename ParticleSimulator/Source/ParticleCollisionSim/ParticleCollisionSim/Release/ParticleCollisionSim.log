@@ -1,0 +1,19 @@
+﻿  Particle.cpp
+w:\uni\year 2\oot\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\Particle.h(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+w:\uni\year 2\oot\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\Particle.h(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+Particle.cpp(10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Particle.cpp(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Particle.cpp(13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Particle.cpp(14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Particle.cpp(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Particle.cpp(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Particle.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Particle.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Particle.cpp(82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  5 of 935 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ParticleCollisionSim.vcxproj -> W:\Uni\Year 2\OOT\OOT_Assignment_3_HandIn\Source\ParticleCollisionSim\Release\ParticleCollisionSim.exe
+  ParticleCollisionSim.vcxproj -> W:\Uni\Year 2\OOT\OOT_Assignment_3_HandIn\Source\ParticleCollisionSim\Release\ParticleCollisionSim.pdb (Full PDB)

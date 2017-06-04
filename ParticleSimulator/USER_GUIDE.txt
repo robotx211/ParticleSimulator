@@ -1,0 +1,22 @@
+OOT Assignment 3 - Particle Simulator
+User Guide - By Robert Brede
+
+When the program starts, it will generate a screen and fill it with 2000 particles. It will also set the number of grid cells for the hash table to 4.
+
+To add more particle, press the right arrow key. To remove particles, press the left arrow key. Particles are added/removed in groups of 500.
+
+To add more grids cells to the hash table, and therefore add more buckets to put sort the particles into, press the up-arrow key. To remove grid cells, press the down-arrow key. By adding/removing grid cells, it is increasing/decreasing the divider number by 1. The divider number starts at 2 and cannot drop below 1. For example, when the divider is 5, there will be 25 grid cells in the hash table.
+
+Settings for the simulation are shown in the window heading. A 0 means that setting is disabled, a 1 means that it is enabled. The title also displays the number of particles in the simulation, and the number of grid cells in the hash table, as well as the current FPS for the simulation.
+
+To turn on/off the parallel processing, which uses OpenMP to process the collisions in each hash table bucket in parallel, press the 'P' button.
+
+To turn on/off the optimisation of grid cells, press the 'O' button (this attempts to add/remove grid cells until 60fps is achieved. While it is active, you cannot add/remove cells manually. After 31 attempts without achieving 60fps, it will turn off the optimisation of grid cells)
+
+To turn on/off hit markers (red crosses to show where a collision has occurred) press the 'H' button.
+
+To turn on/off the visual grid (which shows the size and number of grid cells in the hash table, and their position relative to the screen) press the 'G' button.
+
+Press the 'ESC' button to exit the program.
+
+Though a console window opens with the program, it is only used for output messages, not for input. All input should be done with the SDL window selected.

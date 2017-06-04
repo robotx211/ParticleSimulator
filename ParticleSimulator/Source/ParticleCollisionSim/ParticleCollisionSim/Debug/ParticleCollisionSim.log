@@ -1,0 +1,58 @@
+﻿  Scene.cpp
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.h(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.h(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\scene.cpp(13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\scene.cpp(111): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\scene.cpp(239): warning C4018: '<': signed/unsigned mismatch
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\scene.cpp(298): warning C4018: '<': signed/unsigned mismatch
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\scene.cpp(323): warning C4018: '<': signed/unsigned mismatch
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\scene.cpp(328): warning C4018: '<': signed/unsigned mismatch
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\scene.cpp(388): warning C4018: '<': signed/unsigned mismatch
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\scene.cpp(393): warning C4018: '<': signed/unsigned mismatch
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\scene.cpp(434): warning C4018: '<': signed/unsigned mismatch
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\scene.cpp(439): warning C4018: '<': signed/unsigned mismatch
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\scene.cpp(469): warning C4018: '<': signed/unsigned mismatch
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\scene.cpp(418): warning C4101: 'tempDistanceSqu': unreferenced local variable
+  Particle.cpp
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.h(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.h(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.cpp(10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.cpp(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.cpp(13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.cpp(14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.cpp(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.cpp(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.cpp(82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\main.cpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\main.cpp(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.h(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.h(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\main.cpp(14): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\main.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\main.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\main.cpp(299): warning C4018: '<': signed/unsigned mismatch
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\main.cpp(301): warning C4018: '<': signed/unsigned mismatch
+  HitMarker.cpp
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\hitmarker.cpp(48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\hitmarker.cpp(54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  HashTable.cpp
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.h(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\particle.h(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\hashtable.cpp(13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\hashtable.cpp(48): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\hashtable.cpp(123): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\hashtable.cpp(337): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\hashtable.cpp(338): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FPSProfiler.cpp
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\fpsprofiler.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\wobert bwead\desktop\oot_assignment_3_handin\source\particlecollisionsim\particlecollisionsim\fpsprofiler.cpp(96): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SDL2_rotozoom.c
+  SDL2_imageFilter.c
+  SDL2_gfxPrimitives.c
+  Generating Code...
+  ParticleCollisionSim.vcxproj -> C:\Users\Wobert Bwead\Desktop\OOT_Assignment_3_HandIn\Source\ParticleCollisionSim\Debug\ParticleCollisionSim.exe
+  ParticleCollisionSim.vcxproj -> C:\Users\Wobert Bwead\Desktop\OOT_Assignment_3_HandIn\Source\ParticleCollisionSim\Debug\ParticleCollisionSim.pdb (Partial PDB)
